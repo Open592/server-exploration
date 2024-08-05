@@ -1,0 +1,24 @@
+{
+  "name": "server-exploration",
+  "version": "0.0.1",
+  "description": "An exploritory project to understand the initial 592 client/server protocol.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Open592/server-exploration.git"
+  },
+  "keywords": [
+    "rsps",
+    "592",
+    "open592"
+  ],
+  "author": "Open592 Developer <uss@open592.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Open592/server-exploration/issues"
+  },
+  "homepage": "https://github.com/Open592/server-exploration#readme"
+}
