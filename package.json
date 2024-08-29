@@ -2,7 +2,7 @@
 	"name": "server-exploration",
 	"version": "0.0.1",
 	"description": "An exploritory project to understand the initial 592 client/server protocol.",
-	"main": "src/index.js",
+	"main": "src/index.mjs",
 	"engines": {
 		"node": "22",
 		"npm": "10"
